@@ -1,7 +1,7 @@
 javascript:(function() {
     // Icon image data URL
     let icon = document.createElement("img");
-    icon.src = chrome.runtime.getURL("icon.png");
+    icon.src = chrome.runtime.getURL("benigno-hoyuela-7Z-Uayu13ps-unsplash.jpg");
     icon.style.position = "fixed";
     icon.style.top = "10px";
     icon.style.right = "10px";
